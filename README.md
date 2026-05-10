@@ -29,3 +29,6 @@ The pet begins asleep and must be woken before interactions can occur.
 - Tranquility (TUX environment)
 - State Machine Design
 - Timers & Event Handling
+
+### Author
+- Bianca Butler
