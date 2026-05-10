@@ -1,4 +1,4 @@
-Virtual Pet
+## Virtual Pet
 This project implements a virtual pet using an infinite state machine inspired by Project 1. The pet begins in a sleep state and transitions through multiple emotional states based on user interactions and timed events. Each action—such as petting, ignoring, or waking the pet—triggers different state transitions depending on the pet’s current mood. Randomized timers simulate natural mood changes, creating a more dynamic and lifelike behavior system.
 
 Features
